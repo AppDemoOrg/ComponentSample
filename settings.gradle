@@ -1,0 +1,1 @@
+include ':app', ':login_component', ':mine_component', ':component_lib'
