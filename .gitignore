@@ -9,3 +9,7 @@
 /build
 /captures
 .externalNativeBuild
+/app/build/
+/component_lib/build/
+/login_component/build/
+/mine_component/build/
