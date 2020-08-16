@@ -1,1 +1,8 @@
-include ':app', ':login_component', ':mine_component', ':component_lib'
+
+include ':app'
+
+include ':login_component'
+include ':mine_component'
+
+include ':component_lib'
+
